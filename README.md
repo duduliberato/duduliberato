@@ -6,7 +6,7 @@
 
 This is a brief introduction about myself. I am a Mechatronics Engineer ⚙️🔌 from the University of Brasília (UnB 🔵🟢 - 🇧🇷). I am a current MSc. Mechatronics Systems Researcher student at the UnB, in the Oil and Gas Laboratory 🛢️🏎️ with focus in Electrical Grid Flexibility 🔋☀️💧 and its impact into the energy transition, one should note that this laboratory is aiming its efforts in the energy sector as well. Additionally, I just got admitted at the Royal Institute of Technology (KTH 🔵⚪ - 🇸🇪) in MSc. Engineering Design program.
 
-![https://www.unb.br](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/220px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png) ![arrow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7e-lRl8Ns4nijhzzNGJ0JlU5EwxVkBR0EnQ&s) ![https://www.kth.se/en](https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/190px-KTH_Royal_Institute_of_Technology_logo.svg.png)
+![https://www.unb.br](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/220px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png) ![arrow]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7e-lRl8Ns4nijhzzNGJ0JlU5EwxVkBR0EnQ&s](https://i.pinimg.com/originals/0f/e4/7d/0fe47da19fbc2daa9c48fe6cac4e3265.gif)) ![https://www.kth.se/en](https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/190px-KTH_Royal_Institute_of_Technology_logo.svg.png)
 
 
 
