@@ -32,3 +32,5 @@ Abstract: Metal bending is a manufacturing process widely used in aerospace, aut
 
 ## [Awards](#awards)
 
+I have received an honourable mention for my research in Metal Bending Device Work. I will publish it soon. Thank you for your time and attention.
+
