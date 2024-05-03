@@ -19,7 +19,7 @@ In this file, I will try to show you my projects, my awards, and a little bit ab
 - [Awards](#awards)
 - [Hobbies](#hobbies)
 
-## [Projects](#proj)
+## [Projects](#projects)
 
 As a recently graduated Engineer, I do not yet have much experience, but, as my Final Work in Mechatronics Engineering, I built a bending machine, capable of bending thin metal sheets. This device could serve to perform tests in metals, serving as a ludic-pedagogic device, that can be used by professors and academics that want to perform bent plates. Since it is a pedagogic device, perhaps in the future, students start to use it as a device in classes.
 
@@ -30,17 +30,5 @@ As a recently graduated Engineer, I do not yet have much experience, but, as my 
 ```
 Abstract: Metal bending is a manufacturing process widely used in aerospace, automotive, metallurgical and construction industries. The objective of this project is the development a device capable of provide this bending. Initially it involved a study of the device’s design, including technical drawings. Finite element simulations were then performed to verify the design sizing. The development also included the beginning of the device manufacturing to provide a physical system to perform the bending of the metal sheets. Finally, a control system is proposed to be implemented for this device to measure the force applied to the sheets. AutoCAD software was used during the device designing, Abaqus software was applied during finite element simulation, and Arduino integrated development environment platform was employed to build the algorithm to collect sensor data to monitor the force during the bending event. This project can be classified as a preview of a digital representation of a metal sheet bending device. It presents simulations using finite element analysis and a similarity verification of the physical system to its digital version.
 
-## Hi, I'm Eduardo, a MSc. Mechatronics Systems at the University of Brasília and this is a test to my Github account.
+## [Awards](#awards)
 
-* Thank you for your time and patience yet.
-
-
-# Project Title
-
-Brief description of what the project does.
-
-## Table of Contents
-
-- [Projects](#proj)
-- [Awards](#awa)
-- [Hobbies](#hobs)
