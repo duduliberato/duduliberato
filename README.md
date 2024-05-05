@@ -6,9 +6,13 @@
 
 This is a brief introduction about myself. I am a Mechatronics Engineer ⚙️🔌 from the University of Brasília (UnB 🔵🟢 - 🇧🇷). I am a current MSc. Mechatronics Systems Researcher student at the UnB, in the Oil and Gas Laboratory 🛢️🏎️ with focus in Electrical Grid Flexibility 🔋☀️💧 and its impact into the energy transition, one should note that this laboratory is aiming its efforts in the energy sector as well. Additionally, I just got admitted at the Royal Institute of Technology (KTH 🔵⚪ - 🇸🇪) in MSc. Engineering Design program.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/220px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" height="100" title="University of Brasília - UnB" alt="UnB Logo">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjz1jHOlPklDcsqZT2pKI6v9L_jSMdBke50A&s" height="100" alt="Arrow">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/190px-KTH_Royal_Institute_of_Technology_logo.svg.png" height="150" alt="KTH Logo" title="Royal Institute of Technology - KTH">
+</p>
 
-
-![https://www.unb.br](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/220px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png) ![arrow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjz1jHOlPklDcsqZT2pKI6v9L_jSMdBke50A&s) ![https://www.kth.se/en](https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/190px-KTH_Royal_Institute_of_Technology_logo.svg.png)
+*/![https://www.unb.br](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/220px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png) ![arrow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjz1jHOlPklDcsqZT2pKI6v9L_jSMdBke50A&s) ![https://www.kth.se/en](https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/190px-KTH_Royal_Institute_of_Technology_logo.svg.png)*/
 
 In this file, I will try to show you my projects, my awards, and a little bit about my hobbies.
 
