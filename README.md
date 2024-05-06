@@ -8,7 +8,7 @@ This is a brief introduction about myself. I am a Mechatronics Engineer ⚙️�
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/220px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" height="150" title="University of Brasília - UnB" alt="UnB Logo">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjz1jHOlPklDcsqZT2pKI6v9L_jSMdBke50A&s" height="150" alt="Arrow">
+  <img src="https://media4.giphy.com/media/N8pNBaTNpYekoXX9TR/200w.gif?cid=6c09b952xmviovyn8oxf15ifrg6abxkgj2b8onz4q6hm6fk6&ep=v1_gifs_search&rid=200w.gif&ct=s" height="150" alt="Arrow">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/190px-KTH_Royal_Institute_of_Technology_logo.svg.png" height="150" alt="KTH Logo" title="Royal Institute of Technology - KTH">
 </p>
 
