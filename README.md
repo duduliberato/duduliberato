@@ -30,6 +30,8 @@ For my Final Work in Mechatronics Engineering, I built a bending machine, capabl
 - Plasticity;
 - Manufacturing Processes.
 
+
+
 ```yaml
   Project name: Metal Sheet Bending Device’s Development: Conception, Finite Element Analysis and Control System.
   Keywords: Bending device, Finite Element Analysis, Project’s Manufacturing, Control System.
