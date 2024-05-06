@@ -31,10 +31,8 @@ For my Final Work in Mechatronics Engineering, I built a bending machine, capabl
 - Manufacturing Processes.
 
 <p align="center">
-  <img src="https://github.com/duduliberato/duduliberato/assets/129089889/bfe16eae-e1e1-4b9e-a530-07e7ad8f9077" >
+  <img src="https://github.com/duduliberato/duduliberato/assets/129089889/bfe16eae-e1e1-4b9e-a530-07e7ad8f9077">
 </p>
-
-![bend_gif](https://github.com/duduliberato/duduliberato/assets/129089889/bfe16eae-e1e1-4b9e-a530-07e7ad8f9077)
 
 Here it follows some specifications about this Work:
 
