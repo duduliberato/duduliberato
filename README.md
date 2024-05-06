@@ -31,6 +31,10 @@ For my Final Work in Mechatronics Engineering, I built a bending machine, capabl
 - Manufacturing Processes.
 
 
+https://github.com/duduliberato/duduliberato/assets/129089889/f664f9da-f06d-4d00-8e26-578030fc532e
+
+
+
 
 ```yaml
   Project name: Metal Sheet Bending Device’s Development: Conception, Finite Element Analysis and Control System.
