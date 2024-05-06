@@ -24,7 +24,11 @@ In this file, I will try to show you my projects, my awards, and a little bit ab
 
 ## [Projects](#projects)
 
-For my Final Work in Mechatronics Engineering, I built a bending machine, capable of bending thin metal sheets. This device could serve to perform tests in metals, serving as a ludic-pedagogic device, that can be used by professors and academics that want to perform bent plates to explain Mechanics of Materials, Plasticity, and Manufacturing Processes. Since it is a pedagogic device, perhaps in the future, students start to use it as a device in classes.
+For my Final Work in Mechatronics Engineering, I built a bending machine, capable of bending thin metal sheets. This device could serve to perform tests in metals, serving as a ludic-pedagogic device, that can be used by professors and academics that want to perform bent plates to better explain some subjects, such as:
+
+- Mechanics of Materials;
+- Plasticity;
+- Manufacturing Processes.
 
 ```yaml
   Project name: Metal Sheet Bending Device’s Development: Conception, Finite Element Analysis and Control System.
