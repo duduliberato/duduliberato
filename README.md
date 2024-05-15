@@ -19,12 +19,14 @@ In this file, I will try to show you my projects, my awards, and a little bit ab
 ## Table of Contents
 
 - [Projects](#projects)
-   - [Bending Machine Project](#bend)
-   - [Electrical Flexibility Project](#eleflex)
+   - [Bending Machine](#bend)
+   - [Electrical Flexibility Cost](#eleflex)
 - [Awards](#awards)
 - [Hobbies](#hobbies)
 
 ## [Projects](#projects)
+
+### [Bending Machine](#bend)
 
 For my Final Work in Mechatronics Engineering, I built a bending machine, capable of bending thin metal sheets. This device could serve to perform tests in metals, serving as a ludic-pedagogic device, that can be used by professors and academics that want to perform bent plates to better explain some subjects, such as:
 
