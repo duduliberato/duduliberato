@@ -19,6 +19,8 @@ In this file, I will try to show you my projects, my awards, and a little bit ab
 ## Table of Contents
 
 - [Projects](#projects)
+   - [Bending Machine Project](#bend)
+   - [Electrical Flexibility Project](#eleflex)
 - [Awards](#awards)
 - [Hobbies](#hobbies)
 
