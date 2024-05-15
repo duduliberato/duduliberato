@@ -47,6 +47,9 @@ Here it follows some specifications about this Work:
 ```
 Abstract: Metal bending is a manufacturing process widely used in aerospace, automotive, metallurgical and construction industries. The objective of this project is the development a device capable of provide this bending. Initially it involved a study of the device’s design, including technical drawings. Finite element simulations were then performed to verify the design sizing. The development also included the beginning of the device manufacturing to provide a physical system to perform the bending of the metal sheets. Finally, a control system is proposed to be implemented for this device to measure the force applied to the sheets. AutoCAD software was used during the device designing, Abaqus software was applied during finite element simulation, and Arduino integrated development environment platform was employed to build the algorithm to collect sensor data to monitor the force during the bending event. This project can be classified as a preview of a digital representation of a metal sheet bending device. It presents simulations using finite element analysis and a similarity verification of the physical system to its digital version.
 
+
+### [Electrical Flexibility Cost](#eleflex)
+
 ## [Awards](#awards)
 
 I have received an honourable mention for my research in Metal Bending Device Work. I will publish it soon. Thank you for your time and attention.
