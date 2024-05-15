@@ -56,3 +56,6 @@ This project aims to evaluate how much does a Flexible Electrical Grid worth ðŸ”
 
 I have received an honourable mention for my research in Metal Bending Device Work. I will publish it soon. Thank you for your time and attention.
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
