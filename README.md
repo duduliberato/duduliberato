@@ -50,7 +50,7 @@ Abstract: Metal bending is a manufacturing process widely used in aerospace, aut
 
 ### [Electrical Flexibility Cost](#eleflex)
 
-This project aims to evaluate how much does a Flexible Electrical Grid worth 🔋🔌💧☀️💰. I started developing some Power and Energy data analyses over the Brazilian Demand throughout the years between 2005 to 2023 (with focus on the year of 2022), issuing the impact of non-dispatchable energy sources in the grid, because solar and wind Energies cannot produce energy when needed, but when they can.
+This project aims to evaluate how much does a Flexible Electrical Grid worth 🔋🔌💧☀️💰. I started developing some Power and Energy data analyses over the Brazilian Demand throughout the years between 2005 to 2023 (with focus on the year of 2022), issuing the impact of non-dispatchable energy sources in the grid, because solar and wind energies cannot produce energy when needed, but rather when they can.
 
 ## [Awards](#awards)
 
