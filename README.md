@@ -51,9 +51,9 @@
 📊 An exploratory study of the economic value of grid flexibility and renewable energy reliability.
 
 **What it does:**
-- Analyzes Brazilian grid demand (2005–2023)
+- Analyzes 🇧🇷 🇨🇭 🇸🇪 grid consumption (2005–2024)
 - Visualizes impact of solar/wind volatility
-- Provides metrics for dispatchable vs. non-dispatchable resource comparison
+- Provides metrics for dispatchable vs. non-dispatchable resources comparison
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## 🎯 Hobbies <a name="hobbies"></a>
 
-🏍 Motorcycling • 🧩 Engineering Puzzles • 📊 Data Visualization • 📽 Sci-Fi Films
+📊 Data Visualization • 🎸 Rock n' Roll
 
 ---
 
