@@ -1,60 +1,77 @@
-# Eduardo's README
+# 👋 Eduardo Perez
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-l-ba774b209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9W2xDkrrSeeQqL8gFbY1Jw%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-p-209)
+[![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duduliberato)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Eduardo_Liberato)
 
+---
 
-This is a brief introduction about myself. I am a Mechatronics Engineer ⚙️🔌 from the University of Brasília (UnB 🔵🟢 - 🇧🇷). I am a current MSc. Mechatronics Systems Researcher student at the UnB, in the Oil and Gas Laboratory 🛢️🏎️ with focus in Electrical Grid Flexibility 🔋☀️💧 and its impact into the energy transition, one should note that this laboratory is aiming its efforts in the energy sector as well. Additionally, I just got admitted at the Royal Institute of Technology (KTH 🔵⚪ - 🇸🇪) in MSc. Engineering Design program.
+🎓 **Mechatronics Engineer** from [University of Brasília (UnB)](https://www.unb.br)  
+🔬 MSc. Researcher in Smart Grids & Forecasting – UnB  
+🎓 Future MSc. student at [KTH Royal Institute of Technology](https://www.kth.se/en) in Engineering Design  
+💼 Interested in: Machine Learning • Forecasting Models • Energy Systems • FinTech
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/220px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" height="150" title="University of Brasília - UnB" alt="UnB Logo">
-  <img src="https://media4.giphy.com/media/N8pNBaTNpYekoXX9TR/200w.gif?cid=6c09b952xmviovyn8oxf15ifrg6abxkgj2b8onz4q6hm6fk6&ep=v1_gifs_search&rid=200w.gif&ct=s" height="150" alt="Arrow">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/190px-KTH_Royal_Institute_of_Technology_logo.svg.png" height="150" alt="KTH Logo" title="Royal Institute of Technology - KTH">
-</p>
-
-
-In this file, I will try to show you my projects, my awards, and a little bit about my hobbies.
-
-
-## Table of Contents
-
-- [Projects](#projects)
-   - [Bending Machine](#bend)
-   - [Electrical Flexibility Cost](#eleflex)
-- [Awards](#awards)
-- [Hobbies](#hobbies)
-
-## [Projects](#projects)
-
-### [Bending Machine](#bend)
-
-For my Final Work in Mechatronics Engineering, I built a bending machine, capable of bending thin metal sheets. This device could serve to perform tests in metals, serving as a ludic-pedagogic device, that can be used by professors and academics that want to perform bent plates to better explain some subjects, such as:
-
-- Mechanics of Materials;
-- Plasticity;
-- Manufacturing Processes.
+---
 
 <p align="center">
-  <img src="https://github.com/duduliberato/duduliberato/assets/129089889/bfe16eae-e1e1-4b9e-a530-07e7ad8f9077">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/220px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" height="120">
+  <img src="https://media4.giphy.com/media/N8pNBaTNpYekoXX9TR/200w.gif" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/190px-KTH_Royal_Institute_of_Technology_logo.svg.png" height="120">
 </p>
 
-Here it follows some specifications about this Work:
+---
 
-```yaml
-  Project name: Metal Sheet Bending Device’s Development: Conception, Finite Element Analysis and Control System.
-  Keywords: Bending device, Finite Element Analysis, Project’s Manufacturing, Control System.
-  Advisor: Lucival Malcher
-```
-Abstract: Metal bending is a manufacturing process widely used in aerospace, automotive, metallurgical and construction industries. The objective of this project is the development a device capable of provide this bending. Initially it involved a study of the device’s design, including technical drawings. Finite element simulations were then performed to verify the design sizing. The development also included the beginning of the device manufacturing to provide a physical system to perform the bending of the metal sheets. Finally, a control system is proposed to be implemented for this device to measure the force applied to the sheets. AutoCAD software was used during the device designing, Abaqus software was applied during finite element simulation, and Arduino integrated development environment platform was employed to build the algorithm to collect sensor data to monitor the force during the bending event. This project can be classified as a preview of a digital representation of a metal sheet bending device. It presents simulations using finite element analysis and a similarity verification of the physical system to its digital version.
+## ⚙️ Tech Stack
 
+- **Languages**: Python, C, SQL, MATLAB, Arduino
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Tools**: Git, AutoCAD, Abaqus, Arduino IDE
+- **Domains**: Forecasting, Data Engineering, Electrical Systems, Mechatronics
 
-### [Electrical Flexibility Cost](#eleflex)
+---
 
-This project aims to evaluate how much does a Flexible Electrical Grid worth 🔋🔌💧☀️💰. I started developing some Power and Energy data analyses over the Brazilian Demand throughout the years between 2005 to 2023 (with focus on the year of 2022), issuing the impact of non-dispatchable energy sources in the grid, because solar and wind energies cannot produce energy when needed, but rather when they can.
+## 🛠 Featured Projects
 
-## [Awards](#awards)
+### 🔧 [Bending Machine](https://github.com/duduliberato/bending-machine) <a name="bend"></a>
+📌 A mechatronic system designed to bend metal plates for educational and testing use.
 
-I have received an honourable mention for my research in Metal Bending Device Work. I will publish it soon. Thank you for your time and attention.
+**Tech highlights:**
+- FEA simulation with Abaqus
+- Microcontroller-based force control system
+- AutoCAD modeling + physical prototype
 
+<details>
+<summary>🔍 Abstract</summary>
 
+> Metal bending is a manufacturing process used in industries like aerospace and construction. This project developed a device capable of bending metal sheets, combining design, finite element analysis, and a force-sensing control system.
+</details>
+
+---
+
+### ⚡ [Electrical Flexibility Cost](https://github.com/duduliberato/electrical-flexibility) <a name="eleflex"></a>
+📊 An exploratory study of the economic value of grid flexibility and renewable energy reliability.
+
+**What it does:**
+- Analyzes Brazilian grid demand (2005–2023)
+- Visualizes impact of solar/wind volatility
+- Provides metrics for dispatchable vs. non-dispatchable resource comparison
+
+---
+
+## 🏆 Awards <a name="awards"></a>
+
+- 🎖 Honourable Mention – Final Thesis (Metal Bending Device)
+- 📃 Upcoming publications on grid flexibility & time series modeling
+
+---
+
+## 🎯 Hobbies <a name="hobbies"></a>
+
+🏍 Motorcycling • 🧩 Engineering Puzzles • 📊 Data Visualization • 📽 Sci-Fi Films
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/eduardo-p-209)!
 
