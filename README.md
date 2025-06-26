@@ -1,4 +1,4 @@
-# 👋 Eduardo Perez
+# 👋 Eduardo Perez Liberato a.k.a Eduardo Nogueira Perez
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-p-209)
 [![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duduliberato)
