@@ -31,6 +31,19 @@
 
 ## 🛠 Featured Projects
 
+---
+
+### ⚡ [Electrical Flexibility Cost](https://github.com/duduliberato/electrical-flexibility) <a name="eleflex"></a>
+📊 An exploratory study of the economic value of grid flexibility and renewable energy reliability.
+
+**What it does:**
+- Analyzes 🇧🇷 🇨🇭 🇸🇪 grid consumption (2005–2024)
+- Visualizes impact of solar/wind volatility
+- Provides metrics for dispatchable vs. non-dispatchable resources comparison
+
+---
+
+
 ### 🔧 [Bending Machine](https://github.com/duduliberato/bending-machine) <a name="bend"></a>
 📌 A mechatronic system designed to bend metal plates for educational and testing use.
 
@@ -44,18 +57,6 @@
 
 > Metal bending is a manufacturing process used in industries like aerospace and construction. This project developed a device capable of bending metal sheets, combining design, finite element analysis, and a force-sensing control system.
 </details>
-
----
-
-### ⚡ [Electrical Flexibility Cost](https://github.com/duduliberato/electrical-flexibility) <a name="eleflex"></a>
-📊 An exploratory study of the economic value of grid flexibility and renewable energy reliability.
-
-**What it does:**
-- Analyzes 🇧🇷 🇨🇭 🇸🇪 grid consumption (2005–2024)
-- Visualizes impact of solar/wind volatility
-- Provides metrics for dispatchable vs. non-dispatchable resources comparison
-
----
 
 ## 🏆 Awards <a name="awards"></a>
 
