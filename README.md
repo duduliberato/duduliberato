@@ -25,7 +25,7 @@
 - **Languages**: Python, C, SQL, MATLAB, Arduino
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 - **Tools**: Git, AutoCAD, Abaqus, Arduino IDE
-- **Domains**: Forecasting, Data Engineering, Electrical Systems, Mechatronics
+- **Domains**: Forecasting, Data Engineering, Mechatronics Systems
 
 ---
 
