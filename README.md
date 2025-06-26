@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/220px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" height="120">
-  <img src="[https://media4.giphy.com/media/N8pNBaTNpYekoXX9TR/200w.gif](https://icon2.cleanpng.com/lnd/20241009/qk/0b7c0f47d12df457eec2efa48165b4.webp)" height="100">
+  <img src="https://media4.giphy.com/media/N8pNBaTNpYekoXX9TR/200w.gif" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/190px-KTH_Royal_Institute_of_Technology_logo.svg.png" height="120">
 </p>
 
