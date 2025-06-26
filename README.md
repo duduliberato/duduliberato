@@ -8,8 +8,8 @@
 
 🎓 **Mechatronics Engineer** from [University of Brasília (UnB)](https://www.unb.br)  
 🔬 MSc. Researcher in Smart Grids & Forecasting – UnB  
-🎓 Future MSc. student at [KTH Royal Institute of Technology](https://www.kth.se/en) in Engineering Design  
-💼 Interested in: Machine Learning • Forecasting Models • Energy Systems • FinTech
+🎓 MSc. student at [KTH Royal Institute of Technology](https://www.kth.se/en) in Mechatronics Systems / Engineering Design
+💼 Interested in: Machine Learning • Forecasting Models • Energy Systems • Taxation System
 
 ---
 
